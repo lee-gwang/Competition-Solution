@@ -19,5 +19,5 @@
 ## Kaggle Competitions
 대회명 | 등수 | 비고
 ---|:---:|---|
-[Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) | **113th/1538** |bronze medal||
-[University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) | **243th/2618** |bronze medal
+[Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) | **113th/1538** |bronze medal(top 8%)||
+[University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) | **243th/2618** |bronze medal(top 10%)
